@@ -4,7 +4,7 @@ This is simple chat server build using node's net module
 
 # Start Server
 ```
-node net.js
+node server.js
 ```
 
 # Connect Client
